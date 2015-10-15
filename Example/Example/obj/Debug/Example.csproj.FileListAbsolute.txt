@@ -1,0 +1,2 @@
+C:\Users\altair_csi2\Documents\Windows Forms\Example\Example\bin\Debug\Example.exe.config
+E:\DAW 2\Visual Studio\Windows Forms\Example\Example\bin\Debug\Example.exe.config

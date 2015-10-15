@@ -1,0 +1,32 @@
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form1.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form4esquinas.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.FormPrueba.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.exe.config
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.exe
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.pdb
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form1.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form4esquinas.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.FormPrueba.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Properties.Resources.resources
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Altair\csi2 SRI\Curso SRI\2 Windows\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.exe.config
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.exe
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.pdb
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.exe
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\bin\Release\w02_WindowsForms.pdb
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form1.resources
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Form4esquinas.resources
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.FormPrueba.resources
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.Properties.Resources.resources
+C:\Altair\PNet2 Windows Form\w02_WindowsForms\w02_WindowsForms\obj\Release\w02_WindowsForms.csproj.GenerateResource.Cache

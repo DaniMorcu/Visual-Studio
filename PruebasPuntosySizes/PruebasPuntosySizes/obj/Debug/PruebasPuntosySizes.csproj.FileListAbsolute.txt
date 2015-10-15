@@ -1,0 +1,9 @@
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\bin\Debug\PruebasPuntosySizes.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\bin\Debug\PruebasPuntosySizes.exe
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\bin\Debug\PruebasPuntosySizes.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.exe
+C:\Users\altair_csi2\Documents\Windows Forms\PruebasPuntosySizes\PruebasPuntosySizes\obj\Debug\PruebasPuntosySizes.pdb

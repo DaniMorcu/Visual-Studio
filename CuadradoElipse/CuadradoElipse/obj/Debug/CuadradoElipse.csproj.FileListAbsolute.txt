@@ -1,0 +1,9 @@
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\bin\Debug\CuadradoElipse.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\bin\Debug\CuadradoElipse.exe
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\bin\Debug\CuadradoElipse.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.exe
+C:\Users\altair_csi2\Documents\Windows Forms\CuadradoElipse\CuadradoElipse\obj\Debug\CuadradoElipse.pdb

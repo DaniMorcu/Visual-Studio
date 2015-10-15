@@ -1,0 +1,9 @@
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\bin\Debug\PseudoCentrado.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\bin\Debug\PseudoCentrado.exe
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\bin\Debug\PseudoCentrado.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.exe
+C:\Users\altair_csi2\Documents\Windows Forms\PseudoCentrado\PseudoCentrado\obj\Debug\PseudoCentrado.pdb

@@ -1,0 +1,9 @@
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\bin\Debug\W03D.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\bin\Debug\W03D.exe
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\bin\Debug\W03D.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.exe
+C:\Users\altair_csi2\Documents\Windows Forms\W03D\W03D\obj\Debug\W03D.pdb

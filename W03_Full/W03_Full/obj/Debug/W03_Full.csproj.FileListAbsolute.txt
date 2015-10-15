@@ -1,0 +1,10 @@
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\bin\Debug\W03_Full.exe.config
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\bin\Debug\W03_Full.exe
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\bin\Debug\W03_Full.pdb
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.csprojResolveAssemblyReference.cache
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.Form1.resources
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.FormDibujar.resources
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.Properties.Resources.resources
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.csproj.GenerateResource.Cache
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.exe
+c:\users\csi2\documents\visual studio 2013\Projects\W03_Full\W03_Full\obj\Debug\W03_Full.pdb

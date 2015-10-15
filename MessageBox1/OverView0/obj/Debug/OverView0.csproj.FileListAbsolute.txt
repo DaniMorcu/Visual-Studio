@@ -1,0 +1,12 @@
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.exe
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox1\OverView0\bin\Debug\OverView0.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox1\OverView0\obj\Debug\OverView0.exe
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox1\OverView0\obj\Debug\OverView0.pdb

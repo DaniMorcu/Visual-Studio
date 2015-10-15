@@ -1,0 +1,27 @@
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\manuelmª\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Altair\PNet3 Cursos ASP.Net\_Trabajos ASP.NET 2015\Calculadora_CameroOrellana_Manuel\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\DAW 2\Visual Studio\Windows Forms\CalculadoraCamero\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb

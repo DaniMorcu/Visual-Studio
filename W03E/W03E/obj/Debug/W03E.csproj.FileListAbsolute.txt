@@ -1,0 +1,18 @@
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\bin\Debug\W03E.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\bin\Debug\W03E.exe
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\bin\Debug\W03E.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.exe
+C:\Users\altair_csi2\Documents\Windows Forms\W03E\W03E\obj\Debug\W03E.pdb
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\bin\Debug\W03E.exe.config
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.exe
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.pdb
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\bin\Debug\W03E.exe
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\bin\Debug\W03E.pdb
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.csprojResolveAssemblyReference.cache
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.Form1.resources
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.Properties.Resources.resources
+E:\DAW 2\Visual Studio\Windows Forms\W03E\W03E\obj\Debug\W03E.csproj.GenerateResource.Cache

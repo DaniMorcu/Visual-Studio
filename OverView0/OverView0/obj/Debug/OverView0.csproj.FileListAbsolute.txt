@@ -1,0 +1,18 @@
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.exe
+C:\Users\altair_csi2\Documents\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.pdb
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe.config
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.exe
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.pdb
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.exe
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\bin\Debug\OverView0.pdb
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csprojResolveAssemblyReference.cache
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Form1.resources
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.Properties.Resources.resources
+E:\DAW 2\Visual Studio\Windows Forms\OverView0\OverView0\obj\Debug\OverView0.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\bin\Debug\MessageBox.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\bin\Debug\MessageBox.exe
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox_CasoPractico.Form1.resources
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox_CasoPractico.Properties.Resources.resources
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox.exe
+C:\Users\altair_csi2\Documents\Windows Forms\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
+C:\Users\altair_csi2\Documents\Windows Forms\W1_MorcuendeBejarano_Daniel\MessageBox\bin\Debug\MessageBox.exe.config
+C:\Users\altair_csi2\Documents\Windows Forms\W1_MorcuendeBejarano_Daniel\MessageBox\obj\Debug\MessageBox.exe
+C:\Users\altair_csi2\Documents\Windows Forms\W1_MorcuendeBejarano_Daniel\MessageBox\obj\Debug\MessageBox.pdb

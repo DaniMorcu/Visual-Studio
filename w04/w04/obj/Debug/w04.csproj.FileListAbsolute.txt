@@ -1,0 +1,10 @@
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\bin\Debug\w04.exe.config
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\bin\Debug\w04.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\bin\Debug\w04.pdb
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.csprojResolveAssemblyReference.cache
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.Form1.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.FormDibujar.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.Properties.Resources.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.csproj.GenerateResource.Cache
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w04\w04\obj\Debug\w04.pdb
