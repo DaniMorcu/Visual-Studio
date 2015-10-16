@@ -1,0 +1,8 @@
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\bin\Debug\w05b_textbox.exe.config
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\bin\Debug\w05b_textbox.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\bin\Debug\w05b_textbox.pdb
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.Form1.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.Properties.Resources.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.csproj.GenerateResource.Cache
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.pdb

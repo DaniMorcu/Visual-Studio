@@ -1,0 +1,9 @@
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\bin\Debug\w05a_botonastuto.exe.config
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.csprojResolveAssemblyReference.cache
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.Form1.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.Properties.Resources.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.csproj.GenerateResource.Cache
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\bin\Debug\w05a_botonastuto.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\bin\Debug\w05a_botonastuto.pdb
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05a_botonastuto\w05a_botonastuto\obj\Debug\w05a_botonastuto.pdb

@@ -1,0 +1,8 @@
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\bin\Debug\w05b_radiobuttom.exe.config
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\bin\Debug\w05b_radiobuttom.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\bin\Debug\w05b_radiobuttom.pdb
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\obj\Debug\w05b_radiobuttom.Form1.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\obj\Debug\w05b_radiobuttom.Properties.Resources.resources
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\obj\Debug\w05b_radiobuttom.csproj.GenerateResource.Cache
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\obj\Debug\w05b_radiobuttom.exe
+c:\users\csi2\documents\visual studio 2013\Projects\w05b_radiobuttom\w05b_radiobuttom\obj\Debug\w05b_radiobuttom.pdb
