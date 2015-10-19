@@ -7,3 +7,10 @@ c:\users\csi2\documents\visual studio 2013\Projects\CheckedBoxList\CheckedBoxLis
 c:\users\csi2\documents\visual studio 2013\Projects\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.csproj.GenerateResource.Cache
 c:\users\csi2\documents\visual studio 2013\Projects\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.exe
 c:\users\csi2\documents\visual studio 2013\Projects\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.pdb
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\bin\Debug\CheckedBoxList.exe.config
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.exe
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.pdb
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.csprojResolveAssemblyReference.cache
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.Form1.resources
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.Properties.Resources.resources
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\CheckedBoxList\CheckedBoxList\obj\Debug\CheckedBoxList.csproj.GenerateResource.Cache

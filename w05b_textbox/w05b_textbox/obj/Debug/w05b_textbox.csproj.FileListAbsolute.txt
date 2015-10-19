@@ -6,3 +6,6 @@ c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\ob
 c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.csproj.GenerateResource.Cache
 c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.exe
 c:\users\csi2\documents\visual studio 2013\Projects\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.pdb
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\w05b_textbox\w05b_textbox\bin\Debug\w05b_textbox.exe.config
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.exe
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\w05b_textbox\w05b_textbox\obj\Debug\w05b_textbox.pdb

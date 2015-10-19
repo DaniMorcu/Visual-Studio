@@ -1,1 +1,8 @@
 c:\users\csi2\documents\visual studio 2013\Projects\BotonPropiedades\BotonPropiedades\bin\Debug\BotonPropiedades.exe.config
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\bin\Debug\BotonPropiedades.exe.config
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\bin\Debug\BotonPropiedades.exe
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\bin\Debug\BotonPropiedades.pdb
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\obj\Debug\BotonPropiedades.Properties.Resources.resources
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\obj\Debug\BotonPropiedades.csproj.GenerateResource.Cache
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\obj\Debug\BotonPropiedades.exe
+C:\Users\CSI2\Documents\GitHub\Visual-Studio\BotonPropiedades\BotonPropiedades\obj\Debug\BotonPropiedades.pdb
