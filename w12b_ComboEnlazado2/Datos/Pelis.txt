@@ -1,0 +1,41 @@
+1;2012;158;2009;Roland Emmerich
+11;Australia;165;2008;Baz Luhrmann
+15;Bella;91;2006;Alejandro G. Monteverde
+16;Bienvenidos al norte;106;2008;Dany Boon
+41;El Intercambio;141;2008;Clint Eastwood
+42;El Luchador;105;2008;Darren Aronofsky
+43;El Niño Con El Pijama De Rayas;94;2008;Mark Herman
+56;Enemigos Publicos;140;2009;Michael Mann
+57;Espiritu Del Bosque;90;2008;David Rubín
+60;Gran Torino;116;2008;Clint Eastwood
+62;Harry Potter Y El Misterio Del Principe;155;2008;David Yates 
+71;Ice Age 2 El Deshielo;91;2006;Steven Spielberg
+72;Ice Age 3 El Origen De Los Dinosaurios;95;2009;Steven Spielberg
+79;John RAMBO;93;2008;Silvester Stallone
+80;Jumper;90;2008;Doug Liman
+81;Kung Fu Panda;65;2009;Mark Osborne
+84;Terminator Salvation;100;2009;Joseph McGinty Nichol
+94;La Isla De Nim;96;2008;Mark Levin
+95;La Momia La Tumba Del Emperador Dragon;112;2008;Rob Cohen
+96;La Ola;108;2008;Dennis Gansel
+99;La Sombra del Poder;132;2009;John Musker
+109;Las crónicas de Narnia: el príncipe Caspian;144;2008;Andrew Adamson
+112;Los Mundos De Coraline;100;2009;Henry Selick
+114;Malditos Bastardos;98;2009;Quentin Tarantino
+118;Max Payne;90;2008;John Moore
+120;Mi Nombre Es Harvey Milk;125;2008;Gus Van Sant
+123;Millennium;145;2009;Niels Arden Oplev
+124;Millennium 2;129;2009;Daniel Alfredson
+127;Numero 9;79;2009;Shane Acker
+153;Rocknrolla;114;2008;Guy Ritchie
+154;Senales del Futuro;130;2009;Alex Proyas
+155;Shorts.La Piedra Magica;89;2009;Robert Rodriguez 
+158;Slumdog Millionaire;120;2008;Danny Boyle
+162;Star Trek El Futuro Comienza;120;2009;Alfred Hitchcock
+176;Transsiberian;111;2008;Brad Anderson
+177;Ultimatum A La Tierra;110;2008;Scott Derrickson
+178;Un Buen Hombre;97;2009;Juan Martínez Moreno
+180;up 2009;96;2009;Pete Docter
+181;Viaje al centro de la tierra;93;2008;Eric Breker
+182;WALL-E;98;2008;Andrew Stanton
+183;Wanted;110;2008;Timur Bekmambetov
