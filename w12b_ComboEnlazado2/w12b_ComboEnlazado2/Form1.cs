@@ -53,7 +53,7 @@ namespace w12b_ComboEnlazado2
                 {
                     pbCartel.Image = Image.FromFile(@"..\..\..\Imagenes\Carteles\cartel" + ((Pelicula)cbPelis.SelectedItem).Id.ToString("0000") + ".jpg");
                 }
-                catch (Exception error)
+                catch (MissingFieldException error)
                 {
                     pbCartel.Image = Image.FromFile(@"..\..\..\Imagenes\Carteles\cartel\default.jpg");
 
